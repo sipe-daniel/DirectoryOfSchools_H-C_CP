@@ -4,7 +4,7 @@
 ## Built With
 
 - HTML,
-- CSS,
+- CSS (Grid, Flexbox)
 - Bootstrap 4.4
 
 
