@@ -1,0 +1,240 @@
+/* * {
+    font-family: "Roboto Condensed", sans-serif;
+} */
+
+/* start logo section */
+.navbar-pers {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ec5044;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  margin-right: 1em;
+  margin-bottom: 0;
+  list-style-type: none;
+}
+
+.navbar-pers > div.logo {
+  margin-left: 2.5em;
+}
+
+.wrapper-formsearchschool > div {
+  padding-right: 0;
+  padding-left: 0.2em;
+}
+
+.found-grpschool div {
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+.navbar-pers > div:nth-child(2) {
+  margin-right: 2.5em;
+}
+
+/* .navbar-pers > .logo > img {
+    width: 18%;
+    height: 50%;
+} */
+
+.nav-links li > a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.navbar-pers > .logo > a,
+.navbar-pers > .logo > a:hover {
+  font-size: 20px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: white;
+}
+
+.nav-links > li {
+  padding: 5px 15px;
+
+  /* font-size: 12px; */
+}
+
+.white-elt {
+  color: white;
+}
+
+@media (max-width: 767.98px) {
+  .navbar-pers {
+    display: block;
+    align-items: center;
+    background-color: #ec5044;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    text-align: center;
+  }
+
+  .navbar-pers > div.logo {
+    margin-left: 0;
+  }
+
+  .navbar-pers > div:nth-child(2) {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .navbar-pers > div:nth-child(2) {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+  }
+
+  .nav-links > li {
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+
+  ul.nav-links {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .navbar-pers > div:nth-child(2) {
+    margin-right: 2.5em;
+    margin-left: 4em;
+  }
+
+  .nav-links > li {
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+
+  .navbar-pers {
+    justify-content: normal;
+  }
+}
+
+@media (max-width: 992px) {
+  ul.nav-links li a > span {
+    display: none;
+  }
+}
+
+/* end logo section */
+
+/* start container-searchschool section */
+.container-searchschool {
+  padding-top: 3em;
+  padding-bottom: 4em;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  background-color: #e6e8e9;
+}
+
+h3.title-searchschool {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1.5em;
+}
+
+.container-searchschool > :nth-child(2) {
+  margin-left: 3em;
+}
+
+.found-grpschool div > div:nth-child(3) {
+  margin-right: auto;
+}
+
+.found-grpschool div > div:nth-child(1) {
+  margin-left: auto;
+}
+
+.container-searchschool div:nth-child(2) > div:nth-child(2) {
+  margin-top: 2em;
+}
+
+.btn.btnclearfilter {
+  background-color: orange;
+}
+
+.schoolname,
+.sel1,
+.sel2,
+.sel3,
+.sel4,
+.sel5 {
+  font-weight: bold;
+}
+
+/* second part */
+
+.result-title {
+  text-align: center;
+}
+
+.foundschool {
+  width: 100%;
+
+  /* opacity: 0.5; */
+}
+
+/* end container-searchschool section */
+
+footer {
+  background-color: black;
+  padding-top: 3em;
+}
+
+.footer-grplink {
+  list-style-type: none;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border: 1px solid gray;
+  text-align: center;
+  padding-left: 0;
+  margin-bottom: 2em;
+}
+
+.footer-grplink > li {
+  display: inline-block;
+  margin-left: 2.5em;
+  margin-right: 2.5em;
+}
+
+.fabout-section,
+.fcontact-section {
+  text-align: center;
+  color: gray;
+}
+
+.copyright {
+  padding-top: 2em;
+  padding-bottom: 2em;
+  background-color: #8a8a8a3b;
+}
+
+.copyright div > p {
+  margin-bottom: 0;
+  color: gray;
+}
+
+ul.icons {
+  list-style-type: none;
+  padding-left: 1rem;
+  margin-bottom: 0;
+}
+
+ul.icons > li {
+  display: inline-block;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  color: gray;
+}
