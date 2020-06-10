@@ -7,6 +7,9 @@
 - CSS (Grid, Flexbox)
 - Bootstrap 4.4
 
+## Live Demo
+
+[Live Demo Link](https://rawcdn.githack.com/sipe-daniel/DirectoryOfSchools_H-C_CP/7ee3fbb75fb9259d80054cd5552253671fa3ff8f/index.html)
 
 ## Author
 
@@ -16,4 +19,4 @@
 - Linkedin: [linkedin](https://linkedin.com/in/daniel-jordan-sipe-tchawou)
 
 ## Credits
-All credits for the design goes to [Mathew Njuguna](https://www.behance.net/mathewnjuguna)
+All credits for the design goes to [PatashuleKE](https://www.behance.net/mathewnjuguna)
