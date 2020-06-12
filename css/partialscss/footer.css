@@ -1,0 +1,45 @@
+footer {
+  background-color: black;
+  padding-top: 3em;
+}
+
+.footer-grplink {
+  list-style-type: none;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-bottom: 2em;
+  border: 1px solid gray;
+  text-align: center;
+  padding-left: 0;
+}
+
+.footer-grplink > li {
+  display: inline-block;
+  margin-left: 2.5em;
+  margin-right: 2.5em;
+}
+
+.fabout-section,
+.fcontact-section {
+  text-align: center;
+  color: gray;
+}
+
+.copyright {
+  padding-top: 2em;
+  padding-bottom: 2em;
+  background-color: #8a8a8a3b;
+}
+
+ul.icons {
+  list-style-type: none;
+  padding-left: 1rem;
+  margin-bottom: 0;
+}
+
+ul.icons > li {
+  display: inline-block;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  color: gray;
+}

@@ -1,5 +1,5 @@
 # DirectoryOfSchools_H-C_CP
-> This is the Captstone Project for the Microverse CSS and HTML curriculum. This project consists of creating a directory site for schools.
+> This is the Captstone Project for the Microverse CSS and HTML curriculum. This project consists of creating a Directory of Schools web platform.
 
 ![screenshot](./preview.png)
 
