@@ -1,5 +1,5 @@
 # DirectoryOfSchools_H-C_CP
-> This is the Captstone Project for the Microverse CSS and HTML curriculum. This project consists of creating a Directory of Schools web platform.
+> This is the Captstone Project for the Microverse CSS and HTML curriculum. This project consists of creating a Directory of Schools web platform according to the presentation shows in this page(https://www.behance.net/gallery/25563385/PatashuleKE)
 
 ![screenshot](./preview.png)
 
@@ -8,6 +8,31 @@
 - HTML,
 - CSS (Grid, Flexbox)
 - Bootstrap 4.4
+
+## How to clone this project
+
+You should follow the given design of the website that you can see through this link https://www.behance.net/gallery/25563385/PatashuleKE 
+
+You have to respect these instructions :
+
+Whatever the content for the directory you may choose, you should build these 3 pages as the minimum requirements:
+
+- the main page (search page), with a link to the results page
+- the search results page, with a list of schools each with a link to the detail school page
+- the detail school page
+ 
+
+Each of these pages should have versions for 3 different screen sizes: 
+
+- mobile: up to 768px
+- tablet: up to 1024px
+- desktop: from 1024px
+
+You should follow the guidelines of the given design, including:
+
+- colors (they are not explicitly in the design, but you can pick them from the design page)
+- typographies: font face, size and weight (use a similar one given the design)
+- layout: composition and space between elements, for the 3 given screen sizes
 
 ## Live Demo
 
