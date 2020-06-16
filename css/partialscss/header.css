@@ -2,6 +2,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-direction: row;
   background-color: #ec5044;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
@@ -13,6 +14,7 @@
   margin-right: 1em;
   margin-bottom: 0;
   list-style-type: none;
+  flex-direction: row;
 }
 
 .navbar-pers > div.logo {
@@ -81,6 +83,8 @@
     margin-left: auto;
     margin-right: auto;
     display: flex;
+    flex-direction: row;
+    align-content: center;
   }
 
   .nav-links > li {
@@ -96,6 +100,10 @@
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
+  .navbar-pers > div:nth-child(1) {
+    margin-right: 4.5em;
+  }
+
   .navbar-pers > div:nth-child(2) {
     margin-right: 2.5em;
     margin-left: 4em;
