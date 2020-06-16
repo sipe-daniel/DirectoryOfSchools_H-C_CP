@@ -38,6 +38,9 @@ You should follow the guidelines of the given design, including:
 
 [Live Demo Link](https://rawcdn.githack.com/sipe-daniel/DirectoryOfSchools_H-C_CP/7ee3fbb75fb9259d80054cd5552253671fa3ff8f/index.html)
 
+[Video Demo Link](https://drive.google.com/file/d/1E_y5YGuWPCPcIFWpH6cqJoJz9xJB6kHr/view?usp=sharing)
+
+
 ## Author
 
 👤  **Daniel Jordan Sipe Tchawou**

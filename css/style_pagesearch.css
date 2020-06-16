@@ -19,6 +19,16 @@ h3.title-searchschool {
   margin-left: 3em;
 }
 
+@media (max-width: 991.98px) {
+  .container-searchschool > :nth-child(2) {
+    margin-left: 0;
+  }
+
+  .title-searchschool {
+    text-align: center;
+  }
+}
+
 .found-grpschool div > div:nth-child(3) {
   margin-right: auto;
 }
@@ -46,6 +56,10 @@ main > section:nth-child(2) {
 .sel4,
 .sel5 {
   font-weight: bold;
+}
+
+.form-bottons {
+  margin-top: 1.9em;
 }
 
 .result-title {
