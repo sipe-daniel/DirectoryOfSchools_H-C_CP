@@ -12,11 +12,11 @@
 h3.title-searchschool {
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 1.5em;
+  margin-bottom: 2.2em;
 }
 
 .container-searchschool > :nth-child(2) {
-  margin-left: 3em;
+  margin-left: 1em;
 }
 
 @media (max-width: 991.98px) {
