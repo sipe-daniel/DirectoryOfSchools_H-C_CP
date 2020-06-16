@@ -43,3 +43,8 @@ ul.icons > li {
   margin-right: 0.5em;
   color: gray;
 }
+
+.center-elt {
+  margin-left: auto;
+  margin-right: auto;
+}
