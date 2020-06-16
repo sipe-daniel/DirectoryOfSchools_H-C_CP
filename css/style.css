@@ -1,7 +1,7 @@
 @import url('partialscss/header.css');
 @import url('partialscss/footer.css');
 
-div .content-searchschool > h3 {
+div .content-searchschool > h1 {
   text-align: center;
   text-transform: uppercase;
 }
