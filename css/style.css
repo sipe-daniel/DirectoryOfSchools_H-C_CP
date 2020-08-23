@@ -1,0 +1,152 @@
+@import url('partialscss/header.css');
+@import url('partialscss/footer.css');
+
+div .content-searchschool > h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.search-school {
+  background-image: url("../images/graduation-2394130_1920.jpg");
+  -webkit-background-size: cover;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  height: 35em;
+  display: flex;
+}
+
+.content-searchschool div > input {
+  border-radius: 2% 2%;
+}
+
+.formsearch-school {
+  background-color: #b3b3b3c2;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 2em;
+  padding-top: 1em;
+  padding-right: 2em;
+  padding-bottom: 1em;
+  border-radius: 5px;
+}
+
+.content-searchschool {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button-hiw {
+  background-color: #b3b6b7;
+  border: none;
+  color: white;
+  padding: 13px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+@media (max-width: 767.98px) {
+  .formsearch-school {
+    width: 95%;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .customized-imgcircle {
+    width: 217px;
+    height: 217px;
+  }
+}
+
+@media (min-width: 768px) {
+  .customized-imgcircle {
+    width: 237px;
+    height: 249px;
+  }
+}
+
+.header-secondpart {
+  display: none;
+}
+
+.first-content {
+  grid-area: first-content;
+}
+
+.second-content {
+  grid-area: second-content;
+}
+
+.third-content {
+  grid-area: third-content;
+}
+
+.fourth-content {
+  grid-area: fourth-content;
+}
+
+.secondpart {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  grid-template-areas: "first-content second-content" "third-content fourth-content";
+}
+
+@media (max-width: 991.98px) {
+  .secondpart {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-areas: "header  header" "first-content first-content" "second-content second-content" "third-content third-content" "fourth-content fourth-content";
+  }
+
+  .header-secondpart {
+    grid-area: header;
+    display: block;
+    color: #ec5044;
+    margin-top: 4em;
+  }
+}
+
+.secondpart > div[class$="-content"] {
+  margin-top: 2em;
+}
+
+.copyright div > p {
+  margin-bottom: 0;
+  color: gray;
+}
+
+.secondpart > div[class$="-content"] > p {
+  width: 66%;
+  margin: 0 auto;
+}
+
+.desctext {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.grp-textimg {
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
+.article-textimg > div:nth-child(1) {
+  background-color: #dc473cd1;
+  margin-top: 2em;
+}
+
+.article-textimg > div:nth-child(2) {
+  background-color: #b3b6b7;
+}
+
+.article-textimg > div:nth-child(3) {
+  background-color: #2874a6cc;
+}
