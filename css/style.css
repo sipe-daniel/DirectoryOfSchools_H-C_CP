@@ -15,7 +15,7 @@ div .content-searchschool > h1 {
   display: flex;
 }
 
-.content-searchschool > div > input {
+.content-searchschool div > input {
   border-radius: 2% 2%;
 }
 
