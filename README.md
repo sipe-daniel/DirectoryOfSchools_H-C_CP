@@ -36,7 +36,7 @@ You should follow the guidelines of the given design, including:
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/sipe-daniel/DirectoryOfSchools_H-C_CP/34914239015d5964920e9f433f1cf84bbfd86da7/index.html)
+[Live Demo Link](https://rawcdn.githack.com/sipe-daniel/DirectoryOfSchools_H-C_CP/783029682e619e30b8475d81ddfe0c2edd3a6cdf/index.html)
 
 [Video Demo Link](https://drive.google.com/file/d/1E_y5YGuWPCPcIFWpH6cqJoJz9xJB6kHr/view?usp=sharing)
 
